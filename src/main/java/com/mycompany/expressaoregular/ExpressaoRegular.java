@@ -60,7 +60,6 @@ public class ExpressaoRegular {
         EX3 = "(" + AA_OU_BB + "|(" + AB_OU_BA + AA_OU_BB + "*" + AB_OU_BA + "))*";
           
         EX4 = "(a|a" + QUALQUER_COISA + "a)";
-          
         
         EX5 = USUARIO + "@" + DOMINIO + "\\." + EXTENSAO;
         
